@@ -8,6 +8,7 @@ class Content extends React.Component {
         };
         return (
             <ShoppingList name="李四" src={picture.src}></ShoppingList>
+            
         )
     }
 }
