@@ -1,0 +1,27 @@
+{
+  "name": "antd-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strugglez2019/antd-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strugglez2019/antd-course/issues"
+  },
+  "homepage": "https://github.com/strugglez2019/antd-course#readme",
+  "devDependencies": {
+    "umi": "^3.0.5"
+  },  
+  "scripts": {
+   "dev": "umi dev",
+   "build": "umi build"  
+    }  
+}
