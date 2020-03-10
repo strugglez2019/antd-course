@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "umi dev",
+    "build": "umi build"
   },
   "repository": {
     "type": "git",
@@ -18,10 +19,7 @@
   },
   "homepage": "https://github.com/strugglez2019/antd-course#readme",
   "devDependencies": {
-    "umi": "^3.0.5"
-  },  
-  "scripts": {
-   "dev": "umi dev",
-   "build": "umi build"  
-    }  
+    "umi": "^3.0.5",
+    "umi-plugin-react": "^1.15.2"
+  }
 }
